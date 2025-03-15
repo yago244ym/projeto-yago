@@ -40,8 +40,8 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Seu Nome Completo</h1>
-            <p>[Endereço] | [Telefone] | [E-mail]</p>
+            <h1>Seu Nome Completo</h1> Yago Matheus Alves Domingos
+            <p>[Endereço] rua guarau primavera 3 | [Telefone] | [E-mail]</p> yagom2008x@gamil.com
             <p>[LinkedIn/Portfólio]</p>
         </div>
         <div class="section">
@@ -68,16 +68,16 @@
         <div class="section">
             <h2>Habilidades</h2>
             <ul>
-                <li>[Habilidade 1]</li>
-                <li>[Habilidade 2]</li>
-                <li>[Habilidade 3]</li>
+                <li>[Habilidade 1]</li>   barbeiro 
+                <li>[Habilidade 2]</li>   
+                <li>[Habilidade 3]</li> 
             </ul>
         </div>
         <div class="section">
-            <h2>Idiomas</h2>
+            <h2>Idiomas</h2> portugues 
             <ul>
-                <li>[Idioma 1] - [Nível]</li>
-                <li>[Idioma 2] - [Nível]</li>
+                <li>portugues (nativo)</li>
+                <li></li>
             </ul>
         </div>
     </div>
